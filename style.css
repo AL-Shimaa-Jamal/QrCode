@@ -48,3 +48,9 @@
             width: 20%;
         }
     }
+    
+    @media screen and ( max-width:970px) {
+        .design {
+            width: 70%;
+        }
+    }
